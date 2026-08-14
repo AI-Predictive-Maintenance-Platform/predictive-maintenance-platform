@@ -1,0 +1,20 @@
+# Maven build outputs
+target/
+*.jar
+*.war
+*.ear
+
+# Eclipse / Spring Tool Suite (STS) configurations
+.classpath
+.project
+.settings/
+.metadata/
+
+# IntelliJ IDEA configurations
+.idea/
+*.iml
+*.iws
+
+# Operating system files
+Thumbs.db
+.DS_Store
