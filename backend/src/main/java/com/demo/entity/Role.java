@@ -2,6 +2,6 @@ package com.demo.entity;
 
 public enum Role {
 	ADMIN,
-	ENGINEER,
+	TECHNICIAN,
 	VIEWER
 }
